@@ -7,10 +7,11 @@ Ligatures are so cool! I have this font set up in iTerm, Atom, and Matlab.
 ## CLI: [iTerm2](https://www.iterm2.com) with [oh my zsh](https://ohmyz.sh)
 **Why?** easily customizable interface, prompts, shortcuts, easy-to-add extra commands, etc.
 ![Cool GIF](images/iTerm_gif.gif)
-  
+(How did I make that cool GIF, you ask? [This nifty tool!](https://giphy.com/apps/giphycapture))
+
 ## IDE/code editing: [Atom](https://atom.io)
 **Why?** Super customizable with packages, themes, autocompletes, etc.
-###Useful packages###
+### Useful packages
 * For Julia: `uber-juno` package to get workspace, plots, REPL, etc.
 * For Python: Hydrogen package to spin up Jupyter kernels within Atom and run from source code (caveat: doesn't always play nice with Juno)
 * For HPC: `ftp-remote-edit` to connect to remote machines and edit files within Atom (Thanks Varun/Alec!)
@@ -24,6 +25,7 @@ Ligatures are so cool! I have this font set up in iTerm, Atom, and Matlab.
 ## Professional identity: interoperable personal website and CV code – feel free to fork as template for your own stuff!
 * website: https://github.com/rkurchin/rkurchin.github.io (based on academicpages template)
 * CV: https://github.com/rkurchin/Kurchin_CV (pulls from same source files as CV sections)
+
 
 ## Citation management
 * personally I like [Zotero](https://www.zotero.org)
