@@ -34,7 +34,7 @@ Ligatures are so cool! I have this font set up in iTerm, Atom, and Matlab.
 * https://doi2bib.org/ is also a super useful tool for one-off citations
 
 # Text editing shortcuts, etc.
-As much as you can keep your hands on the keyboard, the more efficient and comfortable you are!
+As much as you can keep your hands on the keyboard, the more efficient and comfortable you are! There are definitely lots more of these I just haven't internalized as yet, but these are some I use frequently in addition to the very commonly known ones for cut/copy/paste, select all, etc.
 * moving around: <kbd>Ctrl</kbd> + <kbd>A</kbd> (beginning of line), <kbd>Ctrl</kbd> + <kbd>E</kbd> (end of line), <kbd>Alt</kbd> + <kbd>← →</kbd> to skip around by "words"
 * multiline indent: <kbd>⌘</kbd> + <kbd>[</kbd> or <kbd>]</kbd> (thanks Venkat!)
 * in iTerm: <kbd>⌘</kbd> + click to follow links to files, URL's, etc.
