@@ -22,7 +22,7 @@ Ligatures are so cool! I have this font set up in iTerm, Atom, and Matlab.
 * syntax highlighting and autocomplete packages for various languages...
 
 ## Note-taking: [Bear](https://bear.app)
-**Why?** Super pretty, tags rather than folders, Markdown formatting.
+**Why?** Super pretty, tags rather than folders just makes sense, Markdown formatting.
 
 ## Professional identity: interoperable personal website and CV code – feel free to fork as template for your own stuff!
 * website: https://github.com/rkurchin/rkurchin.github.io (based on academicpages template)
@@ -41,8 +41,8 @@ As much as you can keep your hands on the keyboard, the more efficient and comfo
 * multiple cursors in Atom! <kbd>⌘</kbd> + click at each point to create cursor (thanks Alec!)
 
 # "Life Hacks" for productivity, etc.
-Key philosophy: make habits you can stick to. This means finding (or making!) the tool that does what you want, and not adapting your life around the tool!
+Key philosophy: make habits you can stick to. This means finding (or making!) the tool that does what you want (and, as much as possible, matches how you think), and not adapting your life around the tool!
 
-* Email distraction-busting: unroll.me or similar, also full-screen mode
-* To-do list app of some kind to offload mental load: I've tried Wunderlist (now defunct :( ), Trello, and most recently I like ClickUp
-* [Some of my philosophizing on this subject](https://rkurchin.github.io/posts/2020/02/do-not-finish)
+* Email distraction-busting: [unroll.me](https://unroll.me) or similar, also full-screen mode
+* To-do list app of some kind to offload mental load: I've tried Wunderlist (now defunct :cry: ), [Trello](https://trello.com), and most recently I like [ClickUp](https://www.clickup.com)
+* [Some of my philosophizing on this subject](https://rkurchin.github.io/posts/2020/02/do-not-finish) -- time management, etc.
