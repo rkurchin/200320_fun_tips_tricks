@@ -35,8 +35,8 @@ Ligatures are so cool! I have this font set up in iTerm, Atom, and Matlab.
 
 # Text editing shortcuts, etc.
 As much as you can keep your hands on the keyboard, the more efficient and comfortable you are!
-* moving around: <kbd>Ctrl</kbd> + <kbd>A</kbd> (beginning of line), <kbd>Ctrl</kbd> + <kbd>e</kbd> (end of line), <kbd>Alt</kbd> + arrows to skip around by "words"
-* multiline indent: <kbd>⌘</kbd> + [ or ] (thanks Venkat!)
+* moving around: <kbd>Ctrl</kbd> + <kbd>A</kbd> (beginning of line), <kbd>Ctrl</kbd> + <kbd>E</kbd> (end of line), <kbd>Alt</kbd> + <kbd>← →</kbd> to skip around by "words"
+* multiline indent: <kbd>⌘</kbd> + <kbd>[</kbd> or <kbd>]</kbd> (thanks Venkat!)
 * in iTerm: <kbd>⌘</kbd> + click to follow links to files, URL's, etc.
 * multiple cursors in Atom! <kbd>⌘</kbd> + click at each point to create cursor (thanks Alec!)
 
