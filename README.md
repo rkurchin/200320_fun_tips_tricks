@@ -1,3 +1,5 @@
+Caveat: this is all Mac-centric. If you're not running macOS, your mileage/compatibility may vary...
+
 # Software and other tools/interfaces
 
 ## Beautiful monospace font: Source Code Pro!
