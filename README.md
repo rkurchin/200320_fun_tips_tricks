@@ -44,5 +44,5 @@ As much as you can keep your hands on the keyboard, the more efficient and comfo
 Key philosophy: make habits you can stick to. This means finding (or making!) the tool that does what you want (and, as much as possible, matches how you think), and not adapting your life around the tool!
 
 * Email distraction-busting: [unroll.me](https://unroll.me) or similar, also full-screen mode
-* To-do list app of some kind to offload mental load: I've tried Wunderlist (now defunct :cry: ), [Trello](https://trello.com), and most recently I like [ClickUp](https://www.clickup.com)
+* To-do list app of some kind to offload mental load: I've tried Wunderlist (now defunct :cry: ), [Trello](https://trello.com), and most recently I like [ClickUp](https://www.clickup.com): personally, I like the ability to have different "statuses" for tasks, in particular for anything that requires external input, to keep track of whose court the metaphorical ball is currently in
 * [Some of my philosophizing on this subject](https://rkurchin.github.io/posts/2020/02/do-not-finish) -- time management, etc.
