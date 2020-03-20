@@ -2,9 +2,9 @@ Caveat: this is all Mac-centric. If you're not running macOS, your mileage/compa
 
 # Software and other tools/interfaces
 
-## Beautiful monospace font: Source Code Pro!
+## Beautiful monospace font: [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)!
 <screenshot>
-Ligatures are so cool! I have this font set up in iTerm, Atom, and Matlab.
+Ligatures are so cool! I have this font set up in iTerm, Atom, and Matlab. Check out the GIF below to see it in action.
 
 ## CLI: [iTerm2](https://www.iterm2.com) with [oh my zsh](https://ohmyz.sh)
 **Why?** easily customizable interface, prompts, shortcuts, easy-to-add extra commands, etc.
